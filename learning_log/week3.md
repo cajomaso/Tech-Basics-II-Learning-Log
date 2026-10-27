@@ -16,7 +16,6 @@
 - fade in and out with potentiometer
 
 ### Question Marks left:
-![Schaltkreis]learning_log/pictures/Schaltkreis.png
-
+![Schaltkreis]https://github.com/cajomaso/techBasics2_Carina_Soeder/blob/main/learning_log/pictures/Schaltkreis.png 
 ### My own "research"
 Trying out the touch-screen
