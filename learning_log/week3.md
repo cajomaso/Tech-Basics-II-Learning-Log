@@ -17,5 +17,7 @@
 
 ### Question Marks left:
 ![Schaltkreis](https://github.com/cajomaso/techBasics2_Carina_Soeder/blob/main/learning_log/pictures/Schaltkreis.png)
+Is it possible to have tilt and LED in the same circuit and measure with digitalRead()?
+
 ### My own "research"
 Trying out the touch-screen
